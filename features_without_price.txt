@@ -1,0 +1,1 @@
+host_id,bairro_group,bairro,latitude,longitude,room_type,minimo_noites,numero_de_reviews,calculado_host_listings_count,disponibilidade_365,rel_nome_bairro
