@@ -15,3 +15,5 @@ Arquivo teste em teste.csv
 Modelo de regressão em arquivo .pkl: linear_regression_model.pkl
 
 Requisitos e versões de pacotes em requisitos.txt
+
+Para funcionamento do arquivo projeto.py, necessário que todos os arquivos deste repositório sejam baixados e direcionados a um mesmo folder.
