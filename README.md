@@ -13,3 +13,5 @@ id,nome,host_id,host_name,bairro_group,bairro,latitude,longitude,room_type,price
 Arquivo teste em teste.csv
 
 Modelo de regressão em arquivo .pkl: linear_regression_model.pkl
+
+Requisitos e versões de pacotes em requisitos.txt
